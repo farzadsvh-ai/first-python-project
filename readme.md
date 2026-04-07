@@ -15,7 +15,7 @@ This repository shows my progress from beginner to advanced.
 ## 🛠 Projects
 
 ### Python Basics
-- (Coming soon)
+- [x] [Simple KM to Miles Converter](./basic_converter.py) - My first Python script for distance conversion.
 
 ### API Projects
 - (Coming soon)
